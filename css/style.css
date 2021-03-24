@@ -1,0 +1,73 @@
+body{
+	margin: 0
+}
+
+.header{
+	background-color:#170805;
+	height: 90px;
+}
+label{
+	color: white;
+	margin-left: 2%;
+	 margin-top: 25px;
+	 font-size: 25px;
+}
+
+label:hover{
+	background-color: #f44336;
+	text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+
+a:hover {
+  background-color: #f44336;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+
+
+.container{
+	overflow: hidden;
+}
+
+.vlog{
+min-height: 622px;
+width: 58%;
+float: left;
+border: solid #3A3A3A 3px;
+}
+
+.contact{
+width: 38%;
+min-height: 100px;
+float: right;
+border: solid #3A3A3A 3px;
+}
+
+.footer{
+	
+	min-height: 100px;
+	border: solid #3A3A3A 3px;
+}
+
+
+
+
+
+.css{
+	border: solid #3A3A3A 3px ;
+	font-family: vivaldi;
+	font-size: 30px;
+}
+
+
+
+
+
+
+
